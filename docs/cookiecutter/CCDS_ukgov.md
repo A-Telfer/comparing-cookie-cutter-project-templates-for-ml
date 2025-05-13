@@ -1,6 +1,6 @@
 # UK Gov fork of CCDS
-Source: https://github.com/ukgovdatascience/cookiecutter-data-science-gds
-Version: 76841b5 - Not maintained
+Source: https://github.com/ukgovdatascience/cookiecutter-data-science-gds    
+Version: 76841b5 - Not maintained   
 ```
 {{ repo name }}
 ├── LICENSE

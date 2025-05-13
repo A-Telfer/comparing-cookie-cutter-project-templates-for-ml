@@ -1,6 +1,6 @@
 # Cookie Cutter Data Science (CCDS)
-Source: https://cookiecutter-data-science.drivendata.org   
-Version: 86152dd
+Source: https://cookiecutter-data-science.drivendata.org    
+Version: 86152dd   
 
 ```
 {{ repo name }}

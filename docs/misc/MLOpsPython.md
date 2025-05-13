@@ -1,6 +1,6 @@
 # MLOpsPython Microsoft
-Source: https://github.com/microsoft/MLOpsPython
-Version: 98a610f
+Source: https://github.com/microsoft/MLOpsPython   
+Version: 98a610f   
 
 ```
 MlOpsPython

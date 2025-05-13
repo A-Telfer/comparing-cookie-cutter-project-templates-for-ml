@@ -1,6 +1,6 @@
 # Cookie Cutter MLOPs Chim-50
-Source: https://github.com/Chim-SO/cookiecutter-mlops
-Version: 526751d
+Source: https://github.com/Chim-SO/cookiecutter-mlops    
+Version: 526751d    
 ```
 {{ repo_name }}
 ├── LICENSE
