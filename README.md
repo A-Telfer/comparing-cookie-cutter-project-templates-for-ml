@@ -1,6 +1,8 @@
 # Cookie Cutter Project Scaffolds Comparison
 
-## Cookie Cutter Data Science (CCDS)
+## Existing Cookie Cutter Templates
+
+### Cookie Cutter Data Science (CCDS)
 Source: https://cookiecutter-data-science.drivendata.org
 Version: 86152dd
 ```
@@ -36,7 +38,51 @@ Version: 86152dd
     └── plots.py
 ```
 
-## UK Gov fork of CCDS
+### Cookie Cutter MLOPs Chim-50
+Source: https://github.com/Chim-SO/cookiecutter-mlops
+Version: 526751d
+```
+{{ cookiecutter.repo_name }}/
+├── LICENSE
+├── README.md
+├── Makefile
+├── configs
+│   └── model1.yaml
+├── data
+│   ├── external
+│   ├── interim
+│   ├── processed
+│   └── raw
+├── docs
+├── models
+├── notebooks
+├── references
+├── reports
+│   └── figures
+├── requirements.txt
+└── src
+    ├── __init__.py
+    ├── data
+    │   ├── build_features.py
+    │   ├── cleaning.py
+    │   ├── ingestion.py
+    │   ├── labeling.py
+    │   ├── splitting.py
+    │   └── validation.py
+    ├── models
+    │   └── model1
+    │       ├── dataloader.py
+    │       ├── hyperparameters_tuning.py
+    │       ├── model.py
+    │       ├── predict.py
+    │       ├── preprocessing.py
+    │       └── train.py
+    └── visualization
+        ├── evaluation.py
+        └── exploration.py
+```
+
+### UK Gov fork of CCDS
 Source: https://ukgovdatascience.github.io/cookiecutter-data-science-gds/
 Version: 76841b5 - Not maintained
 ```
