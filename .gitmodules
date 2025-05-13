@@ -1,0 +1,9 @@
+[submodule "projects/MLOpsPython"]
+	path = projects/MLOpsPython
+	url = git@github.com:microsoft/MLOpsPython.git
+[submodule "projects/cml"]
+	path = projects/cml
+	url = git@github.com:iterative/cml.git
+[submodule "projects/zenml"]
+	path = projects/zenml
+	url = https://github.com/zenml-io/zenml
