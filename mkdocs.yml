@@ -1,0 +1,5 @@
+site_name: ML/AI Project Template Comparisons
+theme:
+  name: material
+  palette:
+    scheme: slate
