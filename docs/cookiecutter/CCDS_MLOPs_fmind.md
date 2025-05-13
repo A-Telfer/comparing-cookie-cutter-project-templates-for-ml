@@ -1,7 +1,6 @@
 # Cookie Cutter MLOPs fmind
 Source: https://github.com/fmind/cookiecutter-mlops-package    
-Version: b930d91    
-Local: [ccds_fmind_example](./projects/ccds_fmind_example/)   
+Version: b930d91
 
 ```
 {{ repo name }}
