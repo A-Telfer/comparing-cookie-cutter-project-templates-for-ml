@@ -11,3 +11,13 @@ This will run the docs on http://127.0.0.1:8000
 ```
 uv run mkdocs serve
 ```
+
+## Build the docs
+```
+uv run mkdocs build
+```
+
+## Deploy the docs
+```
+uv run mkdocs gh-deploy
+```
